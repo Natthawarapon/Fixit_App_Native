@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FixitApp</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</string>
+
+    <string name="my_text"><u>ดูประวัติ</u>.</string>
+    <string name="port">http://192.168.1.39:9090/</string>
+</resources>
